@@ -1,0 +1,5 @@
+/Users/mac/Documents/spring-batch/initial/src/main/java/com/example/batchprocessing/BatchProcessingApplication.java
+/Users/mac/Documents/spring-batch/initial/src/main/java/com/example/batchprocessing/JobCompletionNotificationListener.java
+/Users/mac/Documents/spring-batch/initial/src/main/java/com/example/batchprocessing/Person.java
+/Users/mac/Documents/spring-batch/initial/src/main/java/com/example/batchprocessing/PersonItemProcessor.java
+/Users/mac/Documents/spring-batch/initial/src/main/java/com/example/batchprocessing/config/BatchConfiguration.java

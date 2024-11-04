@@ -1,0 +1,5 @@
+com/example/batchprocessing/BatchProcessingApplication.class
+com/example/batchprocessing/JobCompletionNotificationListener.class
+com/example/batchprocessing/Person.class
+com/example/batchprocessing/PersonItemProcessor.class
+com/example/batchprocessing/config/BatchConfiguration.class
